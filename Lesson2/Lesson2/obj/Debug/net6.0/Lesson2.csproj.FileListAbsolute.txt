@@ -1,0 +1,15 @@
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.csproj.AssemblyReference.cache
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfoInputs.cache
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfo.cs
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.csproj.CoreCompileInputs.cache
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.exe
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.deps.json
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.runtimeconfig.json
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.dll
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.pdb
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.dll
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\refint\Lesson2.dll
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.pdb
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.genruntimeconfig.cache
+E:\курси Beetroot\Csharp\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\ref\Lesson2.dll
